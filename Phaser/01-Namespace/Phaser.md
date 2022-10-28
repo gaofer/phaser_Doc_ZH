@@ -1,0 +1,45 @@
+## Phaser
+
+源码： [src/phaser.js](https://github.com/photonstorm/phaser/tree/v3.51.0/src/phaser.js) ([第12行](https://github.com/photonstorm/phaser/tree/v3.51.0/src/phaser.js#L12))
+
+## 类
+
+[FacebookInstantGamesLeaderboard](FacebookInstantGamesLeaderboard.md)
+[FacebookInstantGamesPlugin](FacebookInstantGamesPlugin.md)
+[Game](Game.md)
+[Scene](Scene.md)
+
+## 命名空间
+
+[Actions](Actions.md)
+[Animations](Animations.md)
+[BlendModes](BlendModes.md)
+[Cache](Cache.md)
+[Cameras](Cameras.md)
+[Core](Core.md)
+[Create](Create.md)
+[Curves](Curves.md)
+[Data](Data.md)
+[Device](Device.md)
+[Display](Display.md)
+[DOM](DOM.md)
+[Events](Events.md)
+[GameObjects](GameObjects.md)
+[Geom](Geom.md)
+[Input](Input.md)
+[Loader](Loader.md)
+[Math](Math.md)
+[Physics](Physics.md)
+[Plugins](Plugins.md)
+[Renderer](Renderer.md)
+[Scale](Scale.md)
+[ScaleModes](ScaleModes.md)
+[Scenes](Scenes.md)
+[Sound](Sound.md)
+[Structs](Structs.md)
+[Textures](Textures.md)
+[Tilemaps](Tilemaps.md)
+[Time](Time.md)
+[Tweens](Tweens.md)
+[Types](Types.md)
+[Utils](Utils.md)

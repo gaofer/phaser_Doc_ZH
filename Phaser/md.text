@@ -1,0 +1,51 @@
+.
+├── 01-Namespace
+│   ├── Phaser
+│   │   ├── Actions.md
+│   │   ├── Animations.md
+│   │   ├── BlendModes.md
+│   │   ├── Cache.md
+│   │   ├── Cameras.md
+│   │   ├── Core.md
+│   │   ├── Create.md
+│   │   ├── Curves.md
+│   │   ├── Data.md
+│   │   ├── Device.md
+│   │   ├── Display.md
+│   │   ├── DOM.md
+│   │   ├── Events.md
+│   │   ├── GameObjects.md
+│   │   ├── Geom.md
+│   │   ├── Input.md
+│   │   ├── Loader.md
+│   │   ├── Math.md
+│   │   ├── Physics.md
+│   │   ├── Plugins.md
+│   │   ├── README.md
+│   │   ├── Renderer.md
+│   │   ├── Scale.md
+│   │   ├── ScaleModes.md
+│   │   ├── Scenes.md
+│   │   ├── Sound.md
+│   │   ├── Structs.md
+│   │   ├── Textures.md
+│   │   ├── Tilemaps.md
+│   │   ├── Time.md
+│   │   ├── Tweens.md
+│   │   ├── Types.md
+│   │   └── Utils.md
+│   └── Phaser.md
+├── 02-Classes
+│   └── Phaser
+│       ├── FacebookInstantGamesLeaderboard.md
+│       ├── FacebookInstantGamesPlugin.md
+│       ├── Game.md
+│       └── Scene.md
+├── 03-Events
+├── 04-GameObjects
+├── 05-Physics
+├── 06-Scence
+├── md.text
+└── PHASER - H5游戏框架.md
+
+8 directories, 40 files

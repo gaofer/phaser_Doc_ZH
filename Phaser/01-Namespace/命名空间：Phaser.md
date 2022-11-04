@@ -11,7 +11,7 @@
 
 ## 命名空间
 
-[Actions](命名空间：Actions.md)
+[Actions](Phaser/01-Namespace/Phaser/命名空间：Actions.md)
 [Animations](命名空间：Animations.md)
 [BlendModes](命名空间：BlendModes.md)
 [Cache](命名空间：Cache.md)
@@ -23,10 +23,10 @@
 [Device](命名空间：Device.md)
 [Display](命名空间：Display.md)
 [DOM](命名空间：DOM.md)
-[Events](命名空间：Events.md)
+[Events](Phaser/01-Namespace/Phaser/命名空间：Events.md)
 [GameObjects](命名空间：GameObjects.md)
 [Geom](命名空间：Geom.md)
-[Input](命名空间：Input.md)
+[Input](Phaser/01-Namespace/Phaser/命名空间：Input.md)
 [Loader](命名空间：Loader.md)
 [Math](命名空间：Math.md)
 [Physics](命名空间：Physics.md)
